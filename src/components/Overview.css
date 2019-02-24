@@ -1,0 +1,6 @@
+
+/*#overview{z-index:5 !important;position:absolute;width:100% !important; height:10rem !important; margin-top: 0px !important}
+*/
+#over{position:absolute}
+div{width:inherit;height:inherit}
+canvas{position:absolute; width:100%;height: 5.5rem !important}
