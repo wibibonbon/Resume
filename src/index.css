@@ -5,6 +5,7 @@ body {
   color: rgb(53,53,53);
   margin: 0;
   padding: 0;
+
 }
 
 
@@ -259,4 +260,8 @@ a.active {
 .search-plus-icon {
   margin-top: auto;
   margin-bottom: auto;
+}
+
+.card {
+  margin: 1rem;
 }

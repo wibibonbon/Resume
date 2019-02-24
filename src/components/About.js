@@ -9,8 +9,8 @@ class About extends Component {
                         <span className="text-primary">Baudach</span>
                     </h1>
 
-                    <div z-index="5" className="subheading mb-5">45 Yurong Street, 2010 Darlinghurst · (+61) 452 265 902  ·
-                        <a z-index="5" href="mailto:baudach.sw@gmail.com">baudach.sw@gmail.com</a>
+                    <div className="subheading mb-5">45 Yurong Street, 2010 Darlinghurst · (+61) 452 265 902  ·
+                        <a href="mailto:baudach.sw@gmail.com">baudach.sw@gmail.com</a>
                     </div>
                     <p className="lead mb-5">I am an enthusiastic and results-focused software
                         developer with 5+ years experience and a passion for

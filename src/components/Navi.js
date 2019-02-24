@@ -15,12 +15,12 @@ class Navi extends React.Component {
 
     render() {
         return (
-            <Navbar collapseOnSelect bg="dark" variant="dark" expand="lg" fixed="top">
-                <Navbar.Brand href="#home">Wibke Baudach</Navbar.Brand>
+            <Navbar bg="dark" variant="dark" expand="lg" fixed="top">
+                <Navbar.Brand href="#about">Wibke Baudach</Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav"/>
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="mr-auto">
-                        <NavItem><Scrollchor to="#experience" className="nav-link">About</Scrollchor></NavItem>
+                        <NavItem><Scrollchor to="#about" className="nav-link">About</Scrollchor></NavItem>
                         <NavItem><Scrollchor to="#experience" className="nav-link">Experience</Scrollchor></NavItem>
                         <NavItem><Scrollchor to="#education" className="nav-link">Education</Scrollchor></NavItem>
                         <NavItem><Scrollchor to="#skills" className="nav-link">Skills</Scrollchor></NavItem>
